@@ -1,0 +1,75 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+h5 {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+h3 {
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    height: -1px;
+}
+img {
+    width: 19.5%;
+    margin-top: auto;
+}
+.division1 {
+    height: 330px;
+    width: 1450px;
+    background-color: white;
+    margin: 4%;
+    float: right;
+    padding: 20px;
+    text-align: center;
+    text-align: bottom;
+    margin-left: 20%;
+}
+p {
+    margin-left: 10px;
+    margin-right: auto;
+    font-size: 40px;
+}
+.division2 {
+    text-align: center;
+    color: #f9f5f5;
+}
+.form-control label {
+    display: block;
+    margin-bottom: 10px;
+    text-align: left;
+    font-size: 20px;
+}
+button {
+    position: absolute;
+    background-color: aqua;
+    left: 50%;
+}
+fieldset {
+    width: fit-content;
+    margin-bottom: 1em;
+  border: 1px solid #f9f5f5;
+  border-right: 1px solid #ffffff;
+  border-bottom: 1px solid #f7f4f4;
+  
+}
+.form-control input,
+.form-control textarea {
+    text-align: left;
+    
+}
+.form-control input[type="radio"],
+.form-control input[type="checkbox"] {
+            display: inline-block;
+            width: auto;
+            align-self: auto;
+            text-align: left;
+        }
